@@ -148,7 +148,7 @@ nav>a {
   height: 150px;
 }
 
-.contactlink:hover, nav>a:hover {
+.contactlink:hover, nav>a:hover, .resumelink:hover {
   font-size: 150%;
 }
 

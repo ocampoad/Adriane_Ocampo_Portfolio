@@ -70,7 +70,6 @@ nav>a {
 .aboutsection>h2, .aboutcontent, .projectsection>h2, .contactsection>h2, .contactcontent, .resumecontent, .resumesection>h2{
   display: flex;
   flex-wrap: wrap;
-  /* max-width: 99%; */
   margin: 1% 0;
   font-size: 25px;
   align-items:center;
@@ -185,3 +184,4 @@ nav>a {
     background-repeat: no-repeat, no-repeat;
     background-position:top left, bottom right;
   }
+}

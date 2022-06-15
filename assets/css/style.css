@@ -106,6 +106,16 @@ nav>a {
   padding: 2% 0;
 }
 
+#project0 {
+  background-image: url(./../images/Toji_Fushiguro_resurrected.webp);
+  background-color: rgba(209, 209, 209, 0.7);
+  background-blend-mode: soft-light;
+  background-size:contain ;
+  background-repeat: no-repeat;
+  
+
+}
+
 #project1 {
   background-image: url(./../images/Nagi_Yoshino.webp);
   background-color: rgba(209, 209, 209, 0.7);
@@ -140,7 +150,7 @@ nav>a {
   background-repeat: no-repeat;
 }
 
-#project1:hover, #project2:hover, #project3:hover, #project4:hover {
+#project0:hover, #project1:hover, #project2:hover, #project3:hover, #project4:hover {
   background-color: rgba(209, 209, 209, 0);
   width: 249px;
   height: 150px;
